@@ -5,6 +5,8 @@ Honeynet with Azure and Microsoft Sentinel
 Overview
 This project sets up a honeynet on Azure with weak security configurations to attract and monitor potential attackers using Microsoft Sentinel (SIEM). After an initial monitoring period, we will enhance security by hardening defenses—such as firewalls and Network Security Groups (NSGs)—and then compare the traffic data before and after hardening.
 
+![Screenshot 2024-07-29 at 7 45 30 AM](https://github.com/user-attachments/assets/ad7d2000-f814-4752-8010-430425b1b4e7)
+
 **Features**:
 
 Azure Honeynet Deployment: Honeynet with weak security settings.
